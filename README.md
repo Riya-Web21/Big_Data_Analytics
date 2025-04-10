@@ -83,7 +83,7 @@ This repository contains practical implementations and analysis of various **Mac
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/riya-web21/ET-2.git
+   git clone https://github.com/riya-web21/Big_Data_Analytics.git
    cd ET-2
 
 👩‍💻 Author
